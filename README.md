@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Flaffy05
-- 👀 I’m interested in gameDev/programming
-- 🌱 I’m currently learning c++
+If i were brat_volk i would explode myself in the name of the جهاد
 
 <!---
 Flaffy05/Flaffy05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
